@@ -1,5 +1,8 @@
 # Petitest::Tap
 
+[![Gem Version](https://badge.fury.io/rb/petitest-tap.svg)](https://rubygems.org/gems/petitest-tap)
+[![Documentation](http://img.shields.io/badge/docs-rdoc.info-blue.svg)](http://www.rubydoc.info/github/petitest/petitest-tap)
+
 TAP output for [Petitest](https://github.com/petitest/petitest).
 
 ## Installation
