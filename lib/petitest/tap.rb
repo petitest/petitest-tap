@@ -1,7 +1,3 @@
+require "petitest/tap/subscriber"
+require "petitest/tap/texts/test_case_text"
 require "petitest/tap/version"
-
-module Petitest
-  module Tap
-    # Your code goes here...
-  end
-end
