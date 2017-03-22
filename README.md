@@ -33,8 +33,8 @@ require "petitest/tap"
 Petitest.configuration.subscribers = [Petitest::Tap::Subscriber.new]
 ```
 
-### Pro tip
+### nyan
 
-https://github.com/calvinmetcalf/tap-nyan demo:
+Demo with https://github.com/calvinmetcalf/tap-nyan:
 
 ![demo](/images/demo.gif)
