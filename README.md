@@ -36,7 +36,18 @@ require "petitest/tap"
 Petitest.configuration.subscribers = [Petitest::Tap::Subscriber.new]
 ```
 
-### nyan
+### Output
+
+See https://testanything.org/ for more details about the TAP specifications.
+
+```
+TAP version 13
+1..2
+ok 1 - TapTest#test_a
+ok 2 - TapTest#test_b
+```
+
+### Nyan
 
 Demo with https://github.com/calvinmetcalf/tap-nyan:
 
